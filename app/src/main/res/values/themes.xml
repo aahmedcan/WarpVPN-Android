@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.WarpVPN" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>

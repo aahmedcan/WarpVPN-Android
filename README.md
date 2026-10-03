@@ -1,2 +1,7 @@
-# WarpVPN-Android
-Vpn 
+# WarpVPN
+
+A simple VPN application built with Jetpack Compose.
+
+Features:
+- Connection status display
+- Connect/Disconnect toggle
