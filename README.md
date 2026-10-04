@@ -6,4 +6,4 @@ Features:
 - Connection status display
 - Connect/Disconnect toggle
 - profesyonel vpn
-- git
+- git. 
